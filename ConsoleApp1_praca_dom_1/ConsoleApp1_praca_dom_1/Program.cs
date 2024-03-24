@@ -18,3 +18,14 @@ int tablica []={1,2,3,4,5,5,56};
         }
     Console.WriteLine(average/tablica.Length);
     }
+//kolejna metoda statyczna, sprawdzić poóżniej
+public static int element maksymalny(int[] tablica)
+{
+    int maxE = tablica[0];
+    for (int index = 1; index < tablica.Length; index++)
+    {
+        if (tablica[index] > maxE)
+            maxE = tablica[index];
+    }
+    return maxE;
+}
