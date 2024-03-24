@@ -18,3 +18,4 @@ int tablica []={1,2,3,4,5,5,56};
         }
     Console.WriteLine(average/tablica.Length);
     }
+
