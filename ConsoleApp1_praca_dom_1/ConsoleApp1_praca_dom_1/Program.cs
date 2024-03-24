@@ -2,3 +2,4 @@
 
 Console.WriteLine("Hello, World!");
 string opis1 = "pojazd sprawny";
+opis1 = "pojazd do sprawdzenia";
