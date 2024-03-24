@@ -10,6 +10,7 @@ int tablica []={1,2,3,4,5,5,56};
    int average=0;
    foreach (int item in tablica)
         {
+    //pętla zliczajaca
             Console.WriteLine("Element [{0}] wynosi: {1}", i, item);
             i++;
     average=+item;
