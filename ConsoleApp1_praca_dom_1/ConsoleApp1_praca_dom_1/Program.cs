@@ -2,4 +2,5 @@
 
 Console.WriteLine("Hello, World!");
 string opis1 = "pojazd sprawny";
-opis1 = "pojazd do sprawdzenia";
+string opis2 = "pojazd do sprawdzenia";
+string opis3 = "pojazd czasowo wyłaczony z użycia";
